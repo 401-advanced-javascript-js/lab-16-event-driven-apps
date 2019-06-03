@@ -6,7 +6,7 @@
 ### Author: Jagdeep Singh
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-js/lab-16-event-driven-apps/pull/1)
 
 #### Running the app
 * `npm start [:filename]`
